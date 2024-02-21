@@ -8,7 +8,7 @@ iv. Kurtosis
 
 to classify the beats.
 
-The Data set is very uneven as the number of anomalies is very less compared to the amount of normal heart beats. This project uses SMOTE Transformer to tranform th data to have all the different types of datas to be of the same numbers.
+The Data set is very uneven as the number of anomalies is very less compared to the amount of normal heart beats. This project uses SMOTE Transformer to tranform the data to have all the different types of datas to be of the same numbers.
 
 This project uses python to read multiple ecg data files which have its own labels on what sort of arrhythmia the beat has. Analysising each beat, The project will use 4 different machine learning algorithms:
 i. Decision Tree
